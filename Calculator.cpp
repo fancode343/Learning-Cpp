@@ -1,4 +1,5 @@
 //Code By fancode343
+//Advance Calculator
 //This algorithm was first coded in Java.
 
 #include <iostream>
