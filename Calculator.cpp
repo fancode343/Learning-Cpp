@@ -1,5 +1,5 @@
 //Code By fancode343
-//Advance Calculator
+//Advance Calculator (MDAS ONLY)
 //This algorithm was first coded in Java.
 
 #include <iostream>
